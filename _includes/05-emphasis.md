@@ -2,13 +2,13 @@
 
 Below is a _list_ of my **technical skills**:
 
-## Programing languages:
+### Programing languages:
 - Python
 - JavaScript
 - HTML 
 - CSS
 
-## Interests:
+### Interests:
 - Web Development
 - GUI Design
 - MobileApp Development
